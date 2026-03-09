@@ -10,5 +10,5 @@ I learn by doing launching instances, connecting via SSH, and exploring cloud in
 - Troubleshooting & Debugging
 
 ## 📂 Projects
-- AWS EC2 Practice Lab – launching instances, connecting via SSH, security groups (coming soon).
+-AWS-scalable-web-app-alb-asg – Scalable web application architecture on AWS using ALB, Auto Scaling, Launch Templates, Nginx, and SNS notifications inside a custom VPC.
   
