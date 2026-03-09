@@ -10,5 +10,5 @@ I learn by doing launching instances, connecting via SSH, and exploring cloud in
 - Troubleshooting & Debugging
 
 ## 📂 Projects
--AWS-scalable-web-app-alb-asg – Scalable web application architecture on AWS using ALB, Auto Scaling, Launch Templates, Nginx, and SNS notifications inside a custom VPC.
+- AWS Scalable WebApp alb & asg – Scalable web application architecture on AWS using ALB, Auto Scaling, Launch Templates, Nginx, and SNS notifications inside a custom VPC.
   
