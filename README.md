@@ -1,4 +1,4 @@
-# Hi, I’m Hephzibah 👋
+# Hi, I’m Hephzy 👋
 
 Linux System Administrator diving into Cloud Computing (AWS).  
 I learn by doing launching instances, connecting via SSH, and exploring cloud infrastructure.
